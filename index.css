@@ -6,7 +6,17 @@ body {
   cursor: pointer;
 }
 body {
-  color: #34495e;
+  color: rgb(14, 20, 26);
+  text-align: center;
+}
+
+.main {
+  display: inline-block;
+  margin: auto;
+  padding: 20px;
+  background-color: rgba(240, 255, 255, 0.7);
+  border-radius: 5px;
+  /* text-align: center; */
 }
 
 .clicked {
